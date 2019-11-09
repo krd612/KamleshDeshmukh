@@ -1,2 +1,2 @@
 # KamleshDeshmukh
-Computer Programmer
+Assistant professor CSE
